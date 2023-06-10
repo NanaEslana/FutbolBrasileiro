@@ -1,6 +1,7 @@
 body {
-
-    background-color: rgba(9, 173, 77, 0.575);
+     background-color: rgba(9, 173, 77, 0.575);
+     font: normal 16px 
+   
 }
 
 h1{ 
@@ -8,8 +9,13 @@ h1{
     text-align: center;
     
 }
+h2{
+    margin-top: 10px;
+}
 
 p {
-    text-align: center;
+    
+    text-align:justify
     font-style: italic;
+    text-indent: 30px;
 }

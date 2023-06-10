@@ -3,6 +3,11 @@ body {
      font: normal 16px 
    
 }
+img{ 
+     border-radius: 20px;
+  
+    
+}
 
 h1{ 
     color:black;
@@ -11,11 +16,12 @@ h1{
 }
 h2{
     margin-top: 10px;
+    text-align: center;
 }
 
 p {
     
     text-align:justify
     font-style: italic;
-    text-indent: 30px;
+    text-indent: 30px; //Justificar texto
 }

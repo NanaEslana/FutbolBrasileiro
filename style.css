@@ -1,12 +1,9 @@
 body {
      background-color: rgba(9, 173, 77, 0.575);
-     font: normal 16px 
-   
+     font: normal 16px  
 }
 img{ 
      border-radius: 20px;
-  
-    
 }
 
 h1{ 
@@ -18,7 +15,6 @@ h2{
     margin-top: 10px;
     text-align: center;
 }
-
 p {
     
     text-align:justify
